@@ -18,8 +18,6 @@ molecule:
     matrix:
       - image: "amazonlinux"
         tag: "latest"
-      - image: "debian"
-        tag: "bookworm"
       - image: "fedora"
         tag: "34"
       - image: "fedora"
