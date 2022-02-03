@@ -43,9 +43,9 @@ jobs:
             tag: "latest"
           - image: "fedora"
             tag: "rawhide"
-          # - image: "ubuntu"    # TODO fatal: [fail2ban-ubuntu-latestpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'fail2ban' is available"}
+          # - image: "ubuntu"      # TODO fatal: [fail2ban-ubuntu-latestpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'fail2ban' is available"}
           #  tag: "latest"
-          # - image: "ubuntu"    # TODO fatal: [fail2ban-ubuntu-bionicpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'fail2ban' is available"}
+          # - image: "ubuntu"      # TODO fatal: [fail2ban-ubuntu-bionicpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'fail2ban' is available"}
           #  tag: "bionic"
     steps:
       - name: checkout
