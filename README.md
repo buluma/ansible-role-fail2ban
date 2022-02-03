@@ -4,7 +4,7 @@ Install and configure fail2ban on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-fail2ban/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-fail2ban/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-fail2ban/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-fail2ban)|[![quality](https://img.shields.io/ansible/quality/57895)](https://galaxy.ansible.com/buluma/fail2ban)|[![downloads](https://img.shields.io/ansible/role/d/57895)](https://galaxy.ansible.com/buluma/fail2ban)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-fail2ban.svg)](https://github.com/buluma/ansible-role-fail2ban/releases/)|
+|[![github](https://github.com/buluma/ansible-role-fail2ban/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-fail2ban/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-fail2ban/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-fail2ban/-/commits/main)|[![quality](https://img.shields.io/ansible/quality/57895)](https://galaxy.ansible.com/buluma/fail2ban)|[![downloads](https://img.shields.io/ansible/role/d/57895)](https://galaxy.ansible.com/buluma/fail2ban)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-fail2ban.svg)](https://github.com/buluma/ansible-role-fail2ban/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
