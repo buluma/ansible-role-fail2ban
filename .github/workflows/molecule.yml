@@ -36,15 +36,17 @@ jobs:
           - image: "amazonlinux"
             tag: "latest"
           - image: "debian"
-            tag: "jessie"
-          # - image: "debian"   # TODO fatal: [fail2ban-debian-bookwormpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'fail2ban' is available"}
-          #  tag: "bookworm"
+            tag: "bookworm"
           - image: "fedora"
             tag: "34"
           - image: "fedora"
             tag: "latest"
           - image: "fedora"
             tag: "rawhide"
+          - image: "ubuntu"
+            tag: "latest"
+          - image: "ubuntu"
+            tag: "bionic"
     steps:
       - name: checkout
         uses: actions/checkout@v2
