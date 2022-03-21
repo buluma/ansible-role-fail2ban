@@ -35,6 +35,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
+        # TODO: Check Fedora
         config:
           - image: "amazonlinux"
             tag: "latest"
@@ -48,8 +49,6 @@ jobs:
             tag: "34"
           - image: "fedora-systemd"
             tag: "latest"
-          # - image: "fedora-systemd"   # TODO: Check Fedora
-          #   tag: "rawhide"
           - image: "docker-ubuntu-systemd"
             tag: "latest"
           - image: "docker-ubuntu-systemd"
