@@ -2,9 +2,9 @@
 
 Install and configure fail2ban on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-fail2ban/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-fail2ban/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-fail2ban/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-fail2ban)|[![quality](https://img.shields.io/ansible/quality/57895)](https://galaxy.ansible.com/buluma/fail2ban)|[![downloads](https://img.shields.io/ansible/role/d/57895)](https://galaxy.ansible.com/buluma/fail2ban)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-fail2ban.svg)](https://github.com/buluma/ansible-role-fail2ban/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-fail2ban.svg)](https://github.com/buluma/ansible-role-fail2ban/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-fail2ban.svg)](https://github.com/buluma/ansible-role-fail2ban/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-fail2ban/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-fail2ban/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-fail2ban/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-fail2ban)|[![downloads](https://img.shields.io/ansible/role/d/4705)](https://galaxy.ansible.com/buluma/fail2ban)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-fail2ban.svg)](https://github.com/buluma/ansible-role-fail2ban/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-fail2ban.svg)](https://github.com/buluma/ansible-role-fail2ban/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-fail2ban.svg)](https://github.com/buluma/ansible-role-fail2ban/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -106,7 +106,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/b
 |[Fedora](https://hub.docker.com/repository/docker/buluma/fedora/general)|all|
 |[Ubuntu](https://hub.docker.com/repository/docker/buluma/ubuntu/general)|all|
 
-The minimum version of Ansible required is 2.10, tests have been done to:
+The minimum version of Ansible required is 2.12, tests have been done to:
 
 - The previous version.
 - The current version.
