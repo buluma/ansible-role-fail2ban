@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-fail2ban/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-fail2ban/compare/1.0.10...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#27](https://github.com/buluma/ansible-role-fail2ban/issues/27)
+- Update action [\#26](https://github.com/buluma/ansible-role-fail2ban/issues/26)
+
 ## [1.0.10](https://github.com/buluma/ansible-role-fail2ban/tree/1.0.10) (2022-11-10)
 
 [Full Changelog](https://github.com/buluma/ansible-role-fail2ban/compare/1.0.9...1.0.10)
