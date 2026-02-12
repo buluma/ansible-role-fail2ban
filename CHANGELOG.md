@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-fail2ban/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-fail2ban/compare/24.3.31...HEAD)
+
+**Closed issues:**
+
+- Update action [\#29](https://github.com/buluma/ansible-role-fail2ban/issues/29)
+- rebuild action [\#28](https://github.com/buluma/ansible-role-fail2ban/issues/28)
+
 ## [24.3.31](https://github.com/buluma/ansible-role-fail2ban/tree/24.3.31) (2024-03-28)
 
 [Full Changelog](https://github.com/buluma/ansible-role-fail2ban/compare/1.2.0...24.3.31)
