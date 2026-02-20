@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test if fail2ban_loglevel is set correctly
   ansible.builtin.assert:
     that:
