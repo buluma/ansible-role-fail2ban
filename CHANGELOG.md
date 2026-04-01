@@ -9,6 +9,10 @@
 - Update action [\#29](https://github.com/buluma/ansible-role-fail2ban/issues/29)
 - rebuild action [\#28](https://github.com/buluma/ansible-role-fail2ban/issues/28)
 
+**Merged pull requests:**
+
+- Bump docker/setup-buildx-action from 3 to 4 [\#44](https://github.com/buluma/ansible-role-fail2ban/pull/44) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [24.3.31](https://github.com/buluma/ansible-role-fail2ban/tree/24.3.31) (2024-03-28)
 
 [Full Changelog](https://github.com/buluma/ansible-role-fail2ban/compare/1.2.0...24.3.31)
