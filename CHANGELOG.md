@@ -88,16 +88,13 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-fail2ban/compare/1.0.4...1.0.5)
 
-**Merged pull requests:**
-
-- set concurrency [\#17](https://github.com/buluma/ansible-role-fail2ban/pull/17) ([buluma](https://github.com/buluma))
-
 ## [1.0.4](https://github.com/buluma/ansible-role-fail2ban/tree/1.0.4) (2022-02-12)
 
 [Full Changelog](https://github.com/buluma/ansible-role-fail2ban/compare/1.0.3...1.0.4)
 
 **Merged pull requests:**
 
+- set concurrency [\#17](https://github.com/buluma/ansible-role-fail2ban/pull/17) ([buluma](https://github.com/buluma))
 - version bump/focal [\#15](https://github.com/buluma/ansible-role-fail2ban/pull/15) ([buluma](https://github.com/buluma))
 
 ## [1.0.3](https://github.com/buluma/ansible-role-fail2ban/tree/1.0.3) (2022-02-10)
