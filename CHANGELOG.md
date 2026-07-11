@@ -29,7 +29,6 @@
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#38](https://github.com/buluma/ansible-role-fail2ban/pull/38) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#37](https://github.com/buluma/ansible-role-fail2ban/pull/37) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#36](https://github.com/buluma/ansible-role-fail2ban/pull/36) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#35](https://github.com/buluma/ansible-role-fail2ban/pull/35) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.2.0](https://github.com/buluma/ansible-role-fail2ban/tree/1.2.0) (2024-01-20)
 
@@ -37,6 +36,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#35](https://github.com/buluma/ansible-role-fail2ban/pull/35) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#31](https://github.com/buluma/ansible-role-fail2ban/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.1.0](https://github.com/buluma/ansible-role-fail2ban/tree/1.1.0) (2024-01-02)
